@@ -1,1 +1,4 @@
-"Hello World!"
+public class Hello {
+    "Hello World!"
+
+}
